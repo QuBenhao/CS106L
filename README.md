@@ -6,7 +6,7 @@ This is a C++ programming course taught at Stanford University. It covers many m
 
 [Official Course Website](http://web.stanford.edu/class/cs106l/)
 
-[Archive Course Resource](https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1192/)
+[Archive Course Resource](https://web.stanford.edu/class/archive/cs/cs106l/cs106l.1202/)
 
 The important lectures are in bold. I feel much more comfortable to write c++ style code after learning this course.
 
